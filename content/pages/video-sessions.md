@@ -27,7 +27,7 @@ Not New Ideas - "Listening to People" Article
 Applying Improvisation to MBA Life
 
 {{< tdclose >}}{{< tdopen >}}
-({{% resource_link "cf22e631-1927-4915-8f66-3b39a742dc79" "MP4 - 197MB" %}})
+([MP4 - 197MB](https://archive.org/download/MIT15.969F04/ocw-15.969-lec-mit-04nov2004-220k.mp4))
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -45,5 +45,5 @@ Module 1: Inventing
 a) The Leader as Creativity Cultivator: Creativity? How to manage a creative process using improvisation - and learn why it's effective
 
 {{< tdclose >}}{{< tdopen >}}
-({{% resource_link "2f615a25-1e4a-443b-a1c1-af857d1091cb" "MP4 - 129MB" %}})
+([MP4 - 129MB](https://archive.org/download/MIT15.969F04/ocw-15.969-lec-mit-09nov2004-220k.mp4))
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
