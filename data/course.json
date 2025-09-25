@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Leadership"
+    ],
+    [
+      "Business",
+      "Innovation"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Business",
+      "Management"
+    ]
+  ],
+  "legacy_uid": "09fbd1f9-22dd-c2b0-176c-c7c8fb94e149",
+  "instructors": {
+    "content": [
+      "53eee4cf-9fee-5545-fc99-dc1071d83dd7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f234d7e6-cfdc-b3a8-40c9-b2c73a91d11a",
+    "website": "15-969-dynamic-leadership-using-improvisation-in-business-fall-2004"
+  },
+  "course_title": "Dynamic Leadership: Using Improvisation in Business",
+  "course_description": "The first two weeks of this course are an overview of performing improvisation with introductory and advanced exercises in the techniques of improvisation.\u00a0The final four weeks focus on applying these concepts in business situations to practice and mastering these improvisation tools in leadership learning.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.969",
+  "course_image_thumbnail": {
+    "content": "b0e0a725-88d5-ff3e-4a04-e4d3526bd0c5",
+    "website": "15-969-dynamic-leadership-using-improvisation-in-business-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Presentation Assignments"
+  ],
+  "site_uid": "cee6e529-4b3a-43fd-b44b-bb946c70330b",
+  "site_short_id": "15.969-fall-2004",
+  "site_url_path": "courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004",
+  "title": "Course Metadata"
+}
