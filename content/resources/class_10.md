@@ -4,8 +4,6 @@ description: Leadership as sales (lecture slides).
 file: /courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/e7f1d224ba85cfed74dbdd5140c7d725_class_10.pdf
 file_size: 55427
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

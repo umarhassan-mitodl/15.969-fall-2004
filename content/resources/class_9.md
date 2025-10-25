@@ -4,8 +4,6 @@ description: Leadership is dynamic (lecture slides).
 file: /courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/ddd7034e6a4dd9216ca63e61b15eaa29_class_9.pdf
 file_size: 62796
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
